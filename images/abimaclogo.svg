@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="abimaclogo.svg"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 92.604162 39.687501"
+   height="150"
+   width="350">
+  <defs
+     id="defs2">
+    <rect
+       id="rect22"
+       height="105.44586"
+       width="93.253937"
+       y="43.127083"
+       x="18.520832" />
+    <rect
+       id="rect12"
+       height="31.220833"
+       width="88.635414"
+       y="18.25625"
+       x="19.314583" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="1058"
+     inkscape:window-width="1252"
+     showborder="false"
+     inkscape:snap-text-baseline="false"
+     units="px"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="106.99185"
+     inkscape:cx="254.3924"
+     inkscape:zoom="1.049998"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       transform="translate(-14.111138,-13.1032)"
+       id="g892">
+      <g
+         aria-label="Abimac"
+         transform="translate(-2.6266405,-3.1042114)"
+         id="text10"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5778px;line-height:1.25;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect12);fill:#f92e43;fill-opacity:1;stroke:none"
+         mask="none">
+        <path
+           d="M 35.863981,39.478992 28.864863,22.793997 H 26.42646 l -6.953962,16.684995 h 3.409248 l 1.851379,-4.31236 h 5.937962 l 1.783646,4.31236 z M 29.429308,32.20894 h -3.567293 l 1.783647,-5.057427 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';fill:#f92e43;fill-opacity:1"
+           id="path46" />
+        <path
+           d="m 50.431954,33.13463 c 0,-3.770493 -2.709336,-6.615296 -6.299206,-6.615296 -1.625602,0 -2.731914,0.451556 -3.883382,1.603024 v -5.328361 h -3.002848 v 16.684995 h 2.754492 v -1.603024 c 1.286935,1.377246 2.483558,1.896535 4.334938,1.896535 3.522137,0 6.096006,-2.86738 6.096006,-6.637873 z m -3.025425,0.02258 c 0,2.280358 -1.490135,3.860804 -3.635026,3.860804 -2.167469,0 -3.70276,-1.603024 -3.70276,-3.883382 0,-2.25778 1.535291,-3.860804 3.635026,-3.860804 2.144891,0 3.70276,1.64818 3.70276,3.883382 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';fill:#f92e43;fill-opacity:1"
+           id="path48" />
+        <path
+           d="M 55.154242,39.478992 V 26.97089 h -3.002847 v 12.508102 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';fill:#f92e43;fill-opacity:1"
+           id="path50"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           d="m 76.337513,39.478992 v -7.224896 c 0,-3.747915 -1.761069,-5.576717 -5.057427,-5.576717 -1.761069,0 -3.002848,0.587023 -4.018849,1.941691 -0.857956,-1.354668 -1.964269,-1.941691 -3.680182,-1.941691 -1.467557,0 -2.370669,0.4064 -3.251203,1.467557 V 26.97089 H 57.57536 v 12.508102 h 3.002848 v -6.16374 c 0,-2.957691 0.699912,-3.883381 2.438402,-3.883381 1.580446,0 2.438403,0.722489 2.438403,3.18347 v 6.863651 h 3.002847 v -6.16374 c 0,-2.980269 0.857957,-3.883381 2.528714,-3.883381 1.399824,0 2.348091,0.677334 2.348091,3.18347 v 6.863651 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';fill:#f92e43;fill-opacity:1"
+           id="path52" />
+        <path
+           d="M 91.452292,39.478992 V 26.97089 H 88.6978 v 1.670758 c -1.038579,-1.377246 -2.280358,-1.964269 -4.086582,-1.964269 -3.702759,0 -6.36694,2.77707 -6.36694,6.592718 0,3.770493 2.641603,6.502406 6.299207,6.502406 1.761068,0 2.957691,-0.564445 4.154315,-1.919113 v 1.625602 z m -2.844803,-6.16374 c 0,2.077158 -1.354668,3.70276 -3.635026,3.70276 -2.190047,0 -3.70276,-1.490135 -3.70276,-3.680182 0,-2.280358 1.512713,-3.905959 3.657604,-3.905959 2.144891,0 3.680182,1.603024 3.680182,3.883381 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';fill:#f92e43;fill-opacity:1"
+           id="path54" />
+        <path
+           d="m 106.04108,35.369832 h -3.38667 c -0.74507,1.151468 -1.60303,1.64818 -2.844808,1.64818 -2.077157,0 -3.635026,-1.625602 -3.635026,-3.815649 0,-2.190046 1.490135,-3.770492 3.567293,-3.770492 1.354671,0 2.302931,0.564445 2.912541,1.715913 h 3.38667 c -0.97085,-2.867381 -3.45441,-4.470405 -6.299211,-4.470405 -3.702759,0 -6.592718,2.867381 -6.592718,6.547562 0,3.635026 2.98027,6.547562 6.683029,6.547562 2.91254,0 5.17032,-1.603023 6.2089,-4.402671 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';fill:#f92e43;fill-opacity:1"
+           id="path56" />
+      </g>
+      <text
+         xml:space="preserve"
+         id="text20"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20.81390000000000029px;line-height:1.25;font-family:Akrobat;-inkscape-font-specification:'Akrobat, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect22);fill:#f92e43;fill-opacity:1;stroke:none;"
+         transform="matrix(0.56571474,0,0,0.56973826,59.542623,11.423764)"><tspan
+           x="18.521484"
+           y="62.546322"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.8139px;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f92e43;fill-opacity:1">fitness</tspan></tspan></text>
+      <rect
+         style="fill:#f92e43;fill-opacity:1;stroke-width:1.87777"
+         id="rect30"
+         width="53.872463"
+         height="2.9167368"
+         x="-103.40157"
+         y="-22.606522"
+         transform="scale(-1)" />
+    </g>
+  </g>
+</svg>
